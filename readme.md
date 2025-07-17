@@ -43,4 +43,4 @@ password-generator/
 3. Customize the password settings and click "Generate Password" to create a new password.
 
 ✨ Author
-Amarnath Kumar - [GitHub](https://github.com/Amarsah15)
+Made with ❤️ by Amarnath Kumar - [GitHub](https://github.com/Amarsah15)
