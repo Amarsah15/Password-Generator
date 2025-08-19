@@ -2,6 +2,10 @@
 
 A sleek and functional **Password Generator** website built using **HTML**, **CSS**, and **JavaScript**. Easily generate secure, random passwords based on your selected preferences.
 
+# Demo
+
+You can view the live demo of the Weather App [here](https://password-generator-zeta-green.vercel.app/).
+
 ## 🚀 Features
 
 - 🧠 Generate strong random passwords instantly
